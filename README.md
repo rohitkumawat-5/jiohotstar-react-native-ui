@@ -33,6 +33,9 @@ This is an independent educational UI recreation inspired by the JioHotstar inte
 
 ## Project
 
+For full details about this project, check it out:
+https://skillhost.in/projects/jiohotstar-home-screen-ui-in-react-native/
+
 More React Native projects:
 https://skillhost.in/
 
